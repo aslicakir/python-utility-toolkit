@@ -1,0 +1,5 @@
+pytube
+rembg
+pillow
+PyPDF2
+qrcode[pil]
